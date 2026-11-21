@@ -1,9 +1,3 @@
-/* =========================================================
-   ServiceFlow - Landing page
-   Paleta baseada no aplicativo desktop (JavaFX).
-   ========================================================= */
-
-/* ---------- Variáveis ---------- */
 :root {
     /* Base escura (mesmos tons do app) */
     --color-bg-deep: #0b0d0f;      /* sidebar */

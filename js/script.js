@@ -1,8 +1,3 @@
-/* =========================================================
-   ServiceFlow - Landing page
-   Interações da interface em JavaScript puro.
-   ========================================================= */
-
 (function () {
     "use strict";
 
